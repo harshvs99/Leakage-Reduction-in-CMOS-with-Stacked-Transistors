@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      hs504
+HostName                       sshserver1
+ProcessIdentifier              25744
+ProcessCreationTime_UTC        1589643891
+ProcessCreationTime_Readable   Sat May 16 21:14:51 2020 IST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/hs504/gpdk045_v_3_5/Final_Project_045/Normal_AND/symbol/symbol.oa.cdslck
+TimeEditLocked                 Sat May 16 21:18:03 2020 IST
